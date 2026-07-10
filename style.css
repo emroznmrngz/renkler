@@ -1,6 +1,12 @@
 :root{--primary-color: blue; --secondary-color: darkblue;}
 body{background-color: white; margin-bottom: 30000px;}
 
+.reklam{border: 10px solid #bdbFF54A; background-color: #bdbFF54A; width: 1700px;}
+.reklam p{margin-left: 300px; color: black; border: 1px solid #bdbFF54A; display: inline;  border-radius: 25px;
+    padding: 10px; background-color: #bdbFF54A; }
+
+.reklam a{text-decoration: none;  background-color: #bdbFF54A; color: #bdbFF54A;}
+
 
 .bar{font-size: 22px;}
 .bar h1{color: var(--primary-color);}  .bar h4{color: var(--primary-color); }
@@ -38,4 +44,7 @@ margin-right: -30px; text-decoration: none;}
 
 .metin h2{padding: 50px; font-size: 22px; margin-top: -50px;}
 .metin ins{padding: 50px;  text-decoration: none; font-size: 20px;}  
+
+.colors h2{padding: 50px;}  .colors img{margin-top: -70px;}
+.colors p{padding: 50px; margin: 0; font-size: 24px;}
 
